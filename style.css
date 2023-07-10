@@ -1,0 +1,21 @@
+body{
+    background-size:cover;
+    background-position: center;
+}
+#song_name{
+    font-size: 30px;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px plum;
+    width:20%;
+}
+#heading{
+    margin-top: 10px;
+    padding-bottom: 10px;
+    box-shadow: 5px 5px 5px plum;
+}
+canvas{
+    box-shadow: 5px 5px 5px plum;
+    margin-inline: 10px;
+    border-style: dashed;
+    border-color: white;
+}
